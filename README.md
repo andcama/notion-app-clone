@@ -28,7 +28,7 @@ Key Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/notion-clone-tutorial.git
+git clone https://github.com/andcama/notion-app-clone.git
 ```
 
 ### Install packages
